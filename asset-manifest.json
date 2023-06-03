@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GurujiAstro-FE-Assesment/static/css/main.beb5b5a5.css",
+    "main.js": "/GurujiAstro-FE-Assesment/static/js/main.b1a67572.js",
+    "index.html": "/GurujiAstro-FE-Assesment/index.html",
+    "main.beb5b5a5.css.map": "/GurujiAstro-FE-Assesment/static/css/main.beb5b5a5.css.map",
+    "main.b1a67572.js.map": "/GurujiAstro-FE-Assesment/static/js/main.b1a67572.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beb5b5a5.css",
+    "static/js/main.b1a67572.js"
+  ]
+}
