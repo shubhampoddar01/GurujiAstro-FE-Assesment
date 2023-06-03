@@ -1,3 +1,12 @@
+# Deployment Link: https://shubhampoddar01.github.io/GurujiAstro-FE-Assesment/
+
+![Screenshot 2023-06-03 203130](https://github.com/shubhampoddar01/GurujiAstro-FE-Assesment/assets/102508425/db1b00d7-683b-44cf-ba39-72dbb229d769)
+![Screenshot 2023-06-03 203159](https://github.com/shubhampoddar01/GurujiAstro-FE-Assesment/assets/102508425/f14a9f3f-0eed-4485-8815-308af5ad7586)
+![Screenshot 2023-06-03 203223](https://github.com/shubhampoddar01/GurujiAstro-FE-Assesment/assets/102508425/756d924d-6802-4503-8048-8b1e37a08045)
+![Screenshot 2023-06-03 203249](https://github.com/shubhampoddar01/GurujiAstro-FE-Assesment/assets/102508425/ccf08ada-789e-413e-8f36-61e6d7496fb5)
+![Screenshot 2023-06-03 203311](https://github.com/shubhampoddar01/GurujiAstro-FE-Assesment/assets/102508425/5749f776-c88c-42ae-9b7e-3977e4ce6250)
+![Screenshot 2023-06-03 203330](https://github.com/shubhampoddar01/GurujiAstro-FE-Assesment/assets/102508425/75342f72-2ecb-4c55-9014-0ad09894dbcc)
+![Screenshot 2023-06-03 203348](https://github.com/shubhampoddar01/GurujiAstro-FE-Assesment/assets/102508425/3cabc3dc-f168-4dce-b826-010662c7b20a)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
